@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Archive / compressed files
+*.rar
+*.zip
+*.7z
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
